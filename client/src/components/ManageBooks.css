@@ -1,0 +1,4 @@
+.compact-table th, .compact-table td {
+  padding: 0.4rem 0.6rem;
+  vertical-align: middle;
+}
